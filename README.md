@@ -1,4 +1,4 @@
-# DZ_3
+# DZ_3_1
 "ИЛИ"
 <img width="1920" height="994" alt="image" src="https://github.com/user-attachments/assets/9c0e32dd-f9f9-4f71-9e9c-0c5e2df753c3" />
 "И"
